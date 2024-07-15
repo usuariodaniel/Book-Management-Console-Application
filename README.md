@@ -29,3 +29,5 @@ Contributions are welcome! Please feel free to submit pull requests or report is
 
 ## Contact
 [LinkedIn](https://www.linkedin.com/in/daniel-sq/) | [E-mail](mailto:danieeldesoares@hotmail.com)
+
+![badge literalura](https://github.com/user-attachments/assets/baea560a-6756-438d-91d3-2fb658fc5c45)
